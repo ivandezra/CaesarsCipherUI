@@ -1,16 +1,13 @@
-# CaesarCypherUI
+# CaesarCipherUI
 
 Welcome to my first Python Project.
 
-This project consists of a classic Caesar's Cypher integrated in an UI.
+This project consists of a classic Caesar's Cipher integrated in an UI.
 
-In this project I made use of the library "tkinter" to create the UI.
-The UI is quite simple and easy to use.
+The purpose of this proyect is displaying a simple UI for the classic "Caesar's Cipher" code.
 
-The purpose of this proyect is displaying a simple UI for the classic "Caesar's Cypher" code.
+Caesar's cipher uses a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. A Caesar cipher with a shift of 1 would encode an A as a B, an M as an N, and a Z as an A, and so on.
 
-Caesar's Cypher consists
+Apart from encoding messages, the code can also decode messages knowing the fixed number of positions the letters switech.
 
-There are 2 main functions.
-
-Decode: This function takes 2 variables, a string and an integer. 
+I made the UI with tkinter.
