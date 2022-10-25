@@ -1,4 +1,4 @@
-# CaesarCipherUI
+# Caesar's Cipher UI
 
 Welcome to my first Python Project.
 
