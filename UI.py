@@ -56,7 +56,7 @@ def encode():
       finaltext+=letter
   messagebox.showinfo("Result", finaltext)
 
-#main GUI
+#main UI
 root = Tk()
 root.geometry('700x700')
 root.title("Encryption System")
